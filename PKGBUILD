@@ -2,7 +2,7 @@
 pkgname=ramallahos-mpd-config
 pkgver=1
 pkgrel=1
-pkgdesc="Kitty config for RamallahOS"
+pkgdesc="MPD config for RamallahOS"
 arch=('any')
 url="https://github.com/ramallahos/$pkgname"
 license=('GPL3')
